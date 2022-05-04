@@ -1,0 +1,95 @@
+body{
+	font-family: roboto;
+	font-size: 14px;
+}
+
+header .nav-item:last-child{
+	margin-left: 20px;
+}
+
+header .nav-item:last-child .nav-link{
+	border-radius: 0px;
+	box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.5);;
+}
+
+.social-logo{
+	width: 20px;
+}
+
+
+.me{
+	display: inline-block;
+	text-align: center;
+}
+
+.me .my-photo{
+	margin-top: -50px;
+}
+.me .my-photo img{
+	border-radius: 50%;
+	width: 100px;
+	border: 3px solid #0079BD;
+}
+
+.me .my-name{
+	margin-top: 10px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+section{}
+
+section .company-logo{
+	text-align: center;
+}
+section .company-logo img{
+	max-width: 80%;
+	margin-bottom: 2rem;
+}
+
+section h1{
+	font-size: 20px;
+	font-weight: bold;
+}
+section h2{
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+section h5{
+	font-size: 14px;
+	font-weight: 300;
+	font-style: italic;
+	color: #2c2c2c;
+	margin-bottom: 25px;
+}
+
+section .experience{
+	margin-top: 20px;
+}
+
+.skill{
+	padding: 2rem;
+}
+
+.proyect{
+	margin-bottom: 2rem;
+}
+
+.proyect h4{
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 2rem;
+	margin-bottom: 1.5rem;
+}
+
+.proyect p{
+	margin-bottom: 10px;
+}
+
+.proyect a{
+	width: 250px;
+	border-radius: 0;
+	margin-top: 1rem;
+}
